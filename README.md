@@ -50,7 +50,13 @@ python app.py
 ```
 5. Access the web interface: Open a web browser and navigate to http://127.0.0.1:5000.
 
-Usage
-Enter text in the input box on the web interface.
+## Usage
+Enter text in the input box.
+x on the web interface.
 Submit the text to check for plagiarism.
 View the result indicating whether plagiarism is detected.
+<img width="1470" alt="Screenshot 2024-12-26 at 23 23 28" src="https://github.com/user-attachments/assets/3cab08ef-e05a-434d-bf21-60c61e79ab4e" />
+
+
+
+
