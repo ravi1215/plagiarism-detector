@@ -1,13 +1,13 @@
-Plagiarism Detector
+# Plagiarism Detector
 This project is a web-based application that detects plagiarism in text using a machine learning model. The application is built with Flask for the backend and integrates a trained machine learning model to classify whether a given text is plagiarized.
 
-Features
+## Features
 1. Simple web interface for submitting text.
 2. Uses TF-IDF for text vectorization.
 3. Machine learning model to predict plagiarism.
 4. Displays detection results on the same page.
 
-Project Structure
+## Project Structure
 ```bash
 Copy code
 /app.py                  # Main Flask application
@@ -16,13 +16,13 @@ Copy code
 /tfidf_vectorizer.pkl    # Trained TF-IDF vectorizer
 ```
 
-Prerequisites
+## Prerequisites
 Python 3.8 or later
 Flask
 Scikit-learn
 Pickle (to save and load the model and vectorizer)
 
-Installation
+## Installation
 1. Clone the repository:
 
 ```bash
