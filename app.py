@@ -38,4 +38,4 @@ def detect_plagiarism():
     return render_template('index.html', result=detection_result)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000)
